@@ -7,6 +7,7 @@ public class pattern11 {
 	
 public static void main(String[] args) {
 	Scanner sc= new Scanner(System.in);
+	System.out.println("hey there");
 	System.out.println("enter the no of unites");
 	int n=sc.nextInt();
 	int count=1;
